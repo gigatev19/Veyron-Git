@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.0",
+    "node-fetch": "^2.7.0"
+  },
+  "name": "server-files",
+  "main": "server-files/packages/core/index.js",
+  "clientScripts": [
+    "client_packages/veyron_login/index.js",
+    "client_packages/veyron_client.js"
+  ],
+  "serverScripts": [
+    "server-files/packages/core/index.js",
+    "server-files/packages/auth/index.js",
+    "server-files/packages/inventory/index.js",
+    "server-files/packages/admin/index.js",
+    "server-files/packages/common/db.js"
+  ],
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

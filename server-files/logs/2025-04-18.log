@@ -1,0 +1,519 @@
+2025-04-18T11:47:44.385Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T11:47:44.386Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T11:47:44.386Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T11:47:44.387Z - error: (node:42652) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T11:47:44.529Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T11:50:22.708Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T11:50:27.285Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T11:50:27.285Z - info: ok
+2025-04-18T11:57:28.830Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T11:57:28.831Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T11:57:28.831Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T11:57:28.832Z - error: (node:44404) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T11:57:28.978Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T11:57:31.335Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T11:57:34.081Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T11:57:34.082Z - info: ok
+2025-04-18T12:15:24.729Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T12:15:24.730Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T12:15:24.730Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T12:15:24.731Z - error: (node:46024) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T12:15:24.872Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T12:15:31.642Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T12:15:34.305Z - info: [2025-04-18T12:15:34.305Z] [playerReady] Deacon_Saintjohn joined with SCID=S4G_gigatev19
+
+2025-04-18T12:15:34.306Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T12:15:34.306Z - info: ok
+2025-04-18T12:15:34.327Z - info: [2025-04-18T12:15:34.327Z] [playerReady] Triggered showLogin for Deacon_Saintjohn
+
+2025-04-18T12:15:34.345Z - info: [2025-04-18T12:15:34.345Z] [playerReady] New account created for SCID=S4G_gigatev19
+
+2025-04-18T12:22:50.595Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T12:22:50.596Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T12:22:50.596Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T12:22:50.597Z - error: (node:34436) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T12:22:50.745Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T12:22:58.266Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T12:23:00.994Z - info: [2025-04-18T12:23:00.994Z] [playerReady] Deacon_Saintjohn joined with SCID=S4G_gigatev19
+
+2025-04-18T12:23:00.996Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T12:23:00.996Z - info: ok
+2025-04-18T12:23:01.008Z - info: [2025-04-18T12:23:01.008Z] [playerReady] Existing account: discord_id=null, registered=false
+
+2025-04-18T12:23:01.008Z - info: [2025-04-18T12:23:01.008Z] [playerReady] Triggered showLogin for Deacon_Saintjohn
+
+2025-04-18T12:24:25.373Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T12:24:25.373Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T12:24:25.373Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T12:24:25.374Z - error: (node:35168) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T12:24:25.519Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T12:24:30.024Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T12:24:32.696Z - info: [2025-04-18T12:24:32.696Z] [playerReady] Deacon_Saintjohn joined with SCID=S4G_gigatev19
+
+2025-04-18T12:24:32.697Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T12:24:32.697Z - info: ok
+2025-04-18T12:24:32.709Z - info: [2025-04-18T12:24:32.709Z] [playerReady] Existing account: discord_id=null, registered=false
+
+2025-04-18T12:24:32.709Z - info: [2025-04-18T12:24:32.709Z] [playerReady] Triggered showLogin for Deacon_Saintjohn
+
+2025-04-18T12:26:30.267Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T12:26:30.268Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T12:26:30.268Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T12:26:30.269Z - error: (node:35276) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T12:26:30.470Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T12:26:34.552Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T12:26:37.424Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T12:26:37.424Z - info: ok
+2025-04-18T12:27:47.661Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T12:27:47.662Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T12:27:47.662Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T12:27:47.663Z - error: (node:33484) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T12:27:47.835Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T12:27:55.245Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T12:27:58.104Z - info: [2025-04-18T12:27:58.104Z] [playerReady] Deacon_Saintjohn joined with SCID=S4G_gigatev19
+
+2025-04-18T12:27:58.106Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T12:27:58.106Z - info: ok
+2025-04-18T12:27:58.120Z - info: [2025-04-18T12:27:58.120Z] [playerReady] Existing account: discord_id=null, registered=false
+
+2025-04-18T12:27:58.121Z - info: [2025-04-18T12:27:58.121Z] [playerReady] Triggered showLogin for Deacon_Saintjohn
+
+2025-04-18T12:29:11.032Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T12:29:11.033Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T12:29:11.033Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T12:29:11.034Z - error: (node:13492) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T12:29:11.188Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T12:29:13.406Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T12:29:16.180Z - info: [2025-04-18T12:29:16.180Z] [playerReady] Deacon_Saintjohn joined with SCID=S4G_gigatev19
+
+2025-04-18T12:29:16.182Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T12:29:16.182Z - info: ok
+2025-04-18T12:29:16.194Z - info: [2025-04-18T12:29:16.193Z] [playerReady] Existing account: discord_id=null, registered=false
+
+2025-04-18T12:29:16.194Z - info: [2025-04-18T12:29:16.194Z] [playerReady] Triggered showLogin for Deacon_Saintjohn
+
+2025-04-18T12:32:05.586Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T12:32:08.654Z - info: [2025-04-18T12:32:08.654Z] [playerReady] Deacon_Saintjohn joined with SCID=S4G_gigatev19
+
+2025-04-18T12:32:08.655Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T12:32:08.655Z - info: ok
+2025-04-18T12:32:08.665Z - info: [2025-04-18T12:32:08.665Z] [playerReady] Existing account: discord_id=null, registered=false
+
+2025-04-18T12:32:08.666Z - info: [2025-04-18T12:32:08.666Z] [playerReady] Triggered showLogin for Deacon_Saintjohn
+
+2025-04-18T12:33:50.463Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T12:33:50.463Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T12:33:50.463Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T12:33:50.464Z - error: (node:41840) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T12:33:50.615Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T12:33:52.337Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T12:33:55.269Z - info: [2025-04-18T12:33:55.268Z] [playerReady] Deacon_Saintjohn joined with SCID=S4G_gigatev19
+
+2025-04-18T12:33:55.270Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T12:33:55.270Z - info: ok
+2025-04-18T12:33:55.281Z - info: [2025-04-18T12:33:55.281Z] [playerReady] Existing account: discord_id=null, registered=false
+
+2025-04-18T12:33:55.281Z - info: [2025-04-18T12:33:55.281Z] [playerReady] Triggered showLogin for Deacon_Saintjohn
+
+2025-04-18T12:35:01.320Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T12:35:04.756Z - info: [2025-04-18T12:35:04.756Z] [playerReady] Deacon_Saintjohn joined with SCID=S4G_gigatev19
+
+2025-04-18T12:35:04.757Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T12:35:04.757Z - info: ok
+2025-04-18T12:35:04.766Z - info: [2025-04-18T12:35:04.765Z] [playerReady] Existing account: discord_id=null, registered=false
+
+2025-04-18T12:35:04.767Z - info: [2025-04-18T12:35:04.767Z] [playerReady] Triggered showLogin for Deacon_Saintjohn
+
+2025-04-18T12:37:51.065Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T12:37:51.065Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T12:37:51.065Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T12:37:51.066Z - error: (node:34336) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T12:37:51.222Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T12:37:53.160Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T12:37:56.019Z - info: [2025-04-18T12:37:56.019Z] [playerReady] Deacon_Saintjohn joined with SCID=S4G_gigatev19
+
+2025-04-18T12:37:56.020Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T12:37:56.020Z - info: ok
+2025-04-18T12:37:56.034Z - info: [2025-04-18T12:37:56.034Z] [playerReady] Existing account: discord_id=null, registered=false
+
+2025-04-18T12:37:56.034Z - info: [2025-04-18T12:37:56.034Z] [playerReady] Triggered showLogin for Deacon_Saintjohn
+
+2025-04-18T12:41:45.699Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T12:41:45.699Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T12:41:45.700Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T12:41:45.700Z - error: (node:10724) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T12:41:45.862Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T12:41:47.523Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T12:41:50.476Z - info: [2025-04-18T12:41:50.476Z] [playerReady] Deacon_Saintjohn joined with SCID=S4G_gigatev19
+
+2025-04-18T12:41:50.477Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T12:41:50.477Z - info: ok
+2025-04-18T12:41:50.485Z - info: [2025-04-18T12:41:50.485Z] [playerReady] Existing account: discord_id=null, registered=false
+
+2025-04-18T12:41:50.485Z - info: [2025-04-18T12:41:50.485Z] [playerReady] Triggered showLogin for Deacon_Saintjohn
+
+2025-04-18T12:51:31.843Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T12:51:31.844Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T12:51:31.844Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T12:51:31.845Z - error: (node:39884) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T12:51:31.973Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T12:52:57.976Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T12:53:00.992Z - info: [2025-04-18T12:53:00.991Z] [playerReady] Deacon_Saintjohn joined with SCID=S4G_gigatev19
+
+2025-04-18T12:53:00.993Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T12:53:00.993Z - info: ok
+2025-04-18T12:53:01.004Z - info: [2025-04-18T12:53:01.004Z] [playerReady] Existing account: discord_id=null, registered=false
+
+2025-04-18T12:53:01.004Z - info: [2025-04-18T12:53:01.004Z] [playerReady] Triggered showLogin for Deacon_Saintjohn
+
+2025-04-18T13:13:45.952Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T13:13:45.953Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T13:13:45.953Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T13:13:45.954Z - error: (node:12428) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T13:13:46.103Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T13:13:53.423Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T13:13:56.214Z - info: [2025-04-18T13:13:56.214Z] [playerReady] Deacon_Saintjohn joined with SCID=S4G_gigatev19
+
+2025-04-18T13:13:56.216Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T13:13:56.216Z - info: ok
+2025-04-18T13:13:56.225Z - info: [2025-04-18T13:13:56.225Z] [playerReady] Existing account: discord_id=null, registered=false
+
+2025-04-18T13:13:56.225Z - info: [2025-04-18T13:13:56.225Z] [playerReady] Triggered showLogin for Deacon_Saintjohn
+
+2025-04-18T13:15:42.290Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T13:15:42.291Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T13:15:42.291Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T13:15:42.292Z - error: (node:34084) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T13:15:42.444Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T13:15:44.048Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T13:15:47.027Z - info: [2025-04-18T13:15:47.026Z] [playerReady] Deacon_Saintjohn joined with SCID=S4G_gigatev19
+
+2025-04-18T13:15:47.028Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T13:15:47.028Z - info: ok
+2025-04-18T13:15:47.039Z - info: [2025-04-18T13:15:47.039Z] [playerReady] Existing account: discord_id=null, registered=false
+
+2025-04-18T13:15:47.039Z - info: [2025-04-18T13:15:47.039Z] [playerReady] Triggered showLogin for Deacon_Saintjohn
+
+2025-04-18T13:15:55.670Z - info: [2025-04-18T13:15:55.670Z] [startDiscordRegister] Deacon_Saintjohn
+
+2025-04-18T13:15:55.670Z - info: [2025-04-18T13:15:55.670Z] [startDiscordRegister] Sent OAuth URL to Deacon_Saintjohn
+
+2025-04-18T13:20:06.342Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T13:20:09.336Z - info: [2025-04-18T13:20:09.336Z] [playerReady] Deacon_Saintjohn joined with SCID=S4G_gigatev19
+
+2025-04-18T13:20:09.337Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T13:20:09.337Z - info: ok
+2025-04-18T13:20:09.346Z - info: [2025-04-18T13:20:09.345Z] [playerReady] Existing account: discord_id=null, registered=false
+
+2025-04-18T13:20:09.346Z - info: [2025-04-18T13:20:09.346Z] [playerReady] Triggered showLogin for Deacon_Saintjohn
+
+2025-04-18T13:20:11.170Z - info: [2025-04-18T13:20:11.170Z] [startDiscordRegister] Deacon_Saintjohn
+
+2025-04-18T13:20:11.170Z - info: [2025-04-18T13:20:11.170Z] [startDiscordRegister] Sent OAuth URL to Deacon_Saintjohn
+
+2025-04-18T13:41:59.437Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T13:41:59.438Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T13:41:59.438Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T13:41:59.438Z - error: (node:31352) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T13:41:59.592Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T13:42:01.359Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T13:42:04.409Z - info: [2025-04-18T13:42:04.409Z] [playerReady] Deacon_Saintjohn joined with SCID=S4G_gigatev19
+
+2025-04-18T13:42:04.411Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T13:42:04.411Z - info: ok
+2025-04-18T13:42:04.422Z - info: [2025-04-18T13:42:04.422Z] [playerReady] Existing account: discord_id=null, registered=false
+
+2025-04-18T13:42:04.422Z - info: [2025-04-18T13:42:04.422Z] [playerReady] Triggered showLogin for Deacon_Saintjohn
+
+2025-04-18T13:56:09.141Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T13:56:09.141Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T13:56:09.142Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T13:56:09.142Z - error: (node:10244) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T13:56:09.288Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T13:56:13.193Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T13:56:16.166Z - info: [2025-04-18T13:56:16.166Z] [playerReady] Deacon_Saintjohn joined with SCID=S4G_gigatev19
+
+2025-04-18T13:56:16.168Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T13:56:16.168Z - info: ok
+2025-04-18T13:56:16.180Z - info: [2025-04-18T13:56:16.180Z] [playerReady] Existing account: discord_id=null, registered=false
+
+2025-04-18T13:56:16.180Z - info: [2025-04-18T13:56:16.180Z] [playerReady] Triggered showLogin for Deacon_Saintjohn
+
+2025-04-18T13:56:17.801Z - info: [2025-04-18T13:56:17.800Z] [startDiscordRegister] Deacon_Saintjohn
+
+2025-04-18T13:56:17.801Z - info: [2025-04-18T13:56:17.801Z] [startDiscordRegister] Sent OAuth URL to Deacon_Saintjohn
+
+2025-04-18T14:05:40.963Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T14:05:40.963Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T14:05:40.963Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T14:05:40.964Z - error: (node:44552) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T14:05:41.106Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T14:05:49.428Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T14:05:52.355Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T14:05:52.355Z - info: ok
+2025-04-18T14:14:17.044Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T14:14:17.044Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T14:14:17.044Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T14:14:17.045Z - error: (node:32224) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T14:14:17.208Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T14:14:23.940Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T14:14:26.987Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T14:14:26.987Z - info: ok
+2025-04-18T14:25:02.427Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T14:25:02.428Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T14:25:02.428Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T14:25:02.429Z - error: (node:34108) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T14:25:02.578Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T14:25:10.578Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T14:25:13.638Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T14:25:13.639Z - info: ok
+2025-04-18T15:35:19.131Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T15:35:19.132Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T15:35:19.132Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T15:35:19.133Z - error: (node:45004) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T15:35:19.273Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T15:35:21.249Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T15:35:24.363Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T15:35:24.363Z - info: ok
+2025-04-18T15:39:35.946Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T15:39:35.946Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T15:39:35.947Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T15:39:35.947Z - error: (node:36852) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T15:39:36.090Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T15:39:43.819Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T15:39:47.005Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T15:39:47.005Z - info: ok
+2025-04-18T15:47:11.166Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T15:47:11.167Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T15:47:11.167Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T15:47:11.168Z - error: (node:24592) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T15:47:11.315Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T15:47:19.521Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T15:47:22.668Z - info: [2025-04-18T15:47:22.668Z] [playerReady] Deacon_Saintjohn (SCID=S4G_gigatev19) connected
+
+2025-04-18T15:47:22.669Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T15:47:22.669Z - info: ok
+2025-04-18T15:47:22.681Z - info: [2025-04-18T15:47:22.681Z] [playerReady] Found account, discord_id=null, registered=false
+
+2025-04-18T15:47:24.140Z - info: [2025-04-18T15:47:24.140Z] [startDiscordRegister] Deacon_Saintjohn requested registration
+
+2025-04-18T15:47:24.141Z - info: [2025-04-18T15:47:24.140Z] [startDiscordRegister] Sent OAuth URL to Deacon_Saintjohn
+
+2025-04-18T15:54:55.510Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T15:54:55.511Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T15:54:55.511Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T15:54:55.512Z - info: [HTTP] OAuth‑Callback listener läuft auf Port 22005
+2025-04-18T15:54:55.512Z - error: (node:42276) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T15:54:55.654Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T15:55:03.677Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T15:55:06.903Z - info: [2025-04-18T15:55:06.902Z] [playerReady] Deacon_Saintjohn (SCID=S4G_gigatev19) connected
+
+2025-04-18T15:55:06.904Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T15:55:06.904Z - info: ok
+2025-04-18T15:55:06.917Z - info: [2025-04-18T15:55:06.917Z] [playerReady] Found account, discord_id=null, registered=false
+
+2025-04-18T15:55:10.697Z - info: [2025-04-18T15:55:10.696Z] [startDiscordRegister] Deacon_Saintjohn requested registration
+
+2025-04-18T15:55:10.697Z - info: [2025-04-18T15:55:10.697Z] [startDiscordRegister] Sent OAuth URL to Deacon_Saintjohn
+
+2025-04-18T15:55:16.310Z - info: [HTTP] POST /oauth/callback reçu
+2025-04-18T15:55:16.311Z - info: [HTTP] Body vollständig: {"socialClub":"S4G_gigatev19","discordId":"374128896934936608"}
+2025-04-18T15:55:16.311Z - info: [HTTP] Parsed callback: socialClub=S4G_gigatev19, discordId=374128896934936608
+2025-04-18T15:55:16.322Z - info: [HTTP] Spieler gefunden: Deacon_Saintjohn
+2025-04-18T16:14:23.910Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T16:14:23.911Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T16:14:23.911Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T16:14:23.912Z - info: [2025-04-18T16:14:23.912Z] [HTTP] OAuth‑Callback listener auf Port 22005
+
+2025-04-18T16:14:23.912Z - error: (node:26436) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T16:14:24.056Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T16:14:28.476Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T16:14:31.729Z - info: [2025-04-18T16:14:31.729Z] [playerReady] Deacon_Saintjohn (SCID=S4G_gigatev19) connected
+
+2025-04-18T16:14:31.730Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T16:14:31.730Z - info: ok
+2025-04-18T16:14:31.741Z - info: [2025-04-18T16:14:31.741Z] [playerReady] Found account, registered=true
+
+2025-04-18T16:14:31.750Z - info: [2025-04-18T16:14:31.750Z] [finishLogin] Spawning Deacon_Saintjohn
+
+2025-04-18T16:14:36.039Z - info: [2025-04-18T16:14:36.038Z] [startDiscordRegister] Deacon_Saintjohn
+
+2025-04-18T16:14:36.039Z - info: [2025-04-18T16:14:36.039Z] [startDiscordRegister] Sent OAuth URL to Deacon_Saintjohn
+
+2025-04-18T16:14:41.115Z - info: [2025-04-18T16:14:41.115Z] [HTTP] POST /oauth/callback
+
+2025-04-18T16:14:41.116Z - info: [2025-04-18T16:14:41.116Z] [HTTP] Body vollständig: {"socialClub":"S4G_gigatev19","discordId":"374128896934936608"}
+
+2025-04-18T16:14:41.116Z - info: [2025-04-18T16:14:41.116Z] [HTTP] Parsed callback: SCID=S4G_gigatev19, DiscordID=374128896934936608
+
+2025-04-18T16:14:41.130Z - info: [2025-04-18T16:14:41.130Z] [HTTP] Spieler gefunden: Deacon_Saintjohn
+
+2025-04-18T16:14:41.155Z - info: [2025-04-18T16:14:41.155Z] [finishLogin] Spawning Deacon_Saintjohn
+
+2025-04-18T16:14:58.156Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T16:15:01.267Z - info: [2025-04-18T16:15:01.267Z] [playerReady] Deacon_Saintjohn (SCID=S4G_gigatev19) connected
+
+2025-04-18T16:15:01.268Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T16:15:01.268Z - info: ok
+2025-04-18T16:15:01.278Z - info: [2025-04-18T16:15:01.277Z] [playerReady] Found account, registered=true
+
+2025-04-18T16:15:01.297Z - info: [2025-04-18T16:15:01.297Z] [finishLogin] Spawning Deacon_Saintjohn
+
+2025-04-18T16:16:09.298Z - info: [2025-04-18T16:16:09.298Z] [startDiscordRegister] Deacon_Saintjohn
+
+2025-04-18T16:16:09.298Z - info: [2025-04-18T16:16:09.298Z] [startDiscordRegister] Sent OAuth URL to Deacon_Saintjohn
+
+2025-04-18T16:16:14.709Z - info: [2025-04-18T16:16:14.709Z] [HTTP] POST /oauth/callback
+
+2025-04-18T16:16:14.709Z - info: [2025-04-18T16:16:14.709Z] [HTTP] Body vollständig: {"socialClub":"S4G_gigatev19","discordId":"374128896934936608"}
+
+2025-04-18T16:16:14.709Z - info: [2025-04-18T16:16:14.709Z] [HTTP] Parsed callback: SCID=S4G_gigatev19, DiscordID=374128896934936608
+
+2025-04-18T16:16:14.722Z - info: [2025-04-18T16:16:14.721Z] [HTTP] Spieler gefunden: Deacon_Saintjohn
+
+2025-04-18T16:16:14.735Z - info: [2025-04-18T16:16:14.734Z] [finishLogin] Spawning Deacon_Saintjohn
+
+2025-04-18T16:16:26.778Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T16:16:30.046Z - info: [2025-04-18T16:16:30.046Z] [playerReady] Deacon_Saintjohn (SCID=S4G_gigatev19) connected
+
+2025-04-18T16:16:30.047Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T16:16:30.047Z - info: ok
+2025-04-18T16:16:30.057Z - info: [2025-04-18T16:16:30.057Z] [playerReady] Found account, registered=true
+
+2025-04-18T16:16:30.070Z - info: [2025-04-18T16:16:30.070Z] [finishLogin] Spawning Deacon_Saintjohn
+
+2025-04-18T17:29:38.871Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T17:29:41.967Z - info: [2025-04-18T17:29:41.967Z] [playerReady] Deacon_Saintjohn (SCID=S4G_gigatev19) connected
+
+2025-04-18T17:29:41.969Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T17:29:41.969Z - info: ok
+2025-04-18T17:29:41.978Z - info: [2025-04-18T17:29:41.978Z] [playerReady] Found account, registered=true
+
+2025-04-18T17:29:41.992Z - info: [2025-04-18T17:29:41.992Z] [finishLogin] Spawning Deacon_Saintjohn
+
+2025-04-18T17:29:59.390Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T17:29:59.391Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T17:29:59.391Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T17:29:59.392Z - info: [2025-04-18T17:29:59.392Z] [HTTP] OAuth‑Callback listener auf Port 22005
+
+2025-04-18T17:29:59.392Z - error: (node:13332) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T17:29:59.539Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T17:30:07.604Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T17:30:10.703Z - info: [2025-04-18T17:30:10.702Z] [playerReady] Deacon_Saintjohn (SCID=S4G_gigatev19) connected
+
+2025-04-18T17:30:10.704Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T17:30:10.704Z - info: ok
+2025-04-18T17:30:10.714Z - info: [2025-04-18T17:30:10.714Z] [playerReady] Found account, registered=true
+
+2025-04-18T17:30:10.731Z - info: [2025-04-18T17:30:10.731Z] [finishLogin] Spawning Deacon_Saintjohn
+
+2025-04-18T17:30:10.880Z - info: [2025-04-18T17:30:10.879Z] [checkDiscordStatus] Deacon_Saintjohn fragt Status ab
+
+2025-04-18T17:30:10.891Z - info: [2025-04-18T17:30:10.891Z] [checkDiscordStatus] Deacon_Saintjohn => registered=true
+
+2025-04-18T17:30:10.904Z - info: [2025-04-18T17:30:10.904Z] [finishLogin] Spawning Deacon_Saintjohn
+
+2025-04-18T17:34:46.604Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T17:34:46.605Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T17:34:46.605Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T17:34:46.606Z - info: [2025-04-18T17:34:46.605Z] [HTTP] OAuth‑Callback listener auf Port 22005
+
+2025-04-18T17:34:46.606Z - error: (node:13740) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T17:34:46.756Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T17:34:48.505Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-18T17:34:51.898Z - info: [2025-04-18T17:34:51.898Z] [playerReady] Deacon_Saintjohn (SCID=S4G_gigatev19) connected
+
+2025-04-18T17:34:51.899Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-18T17:34:51.900Z - info: ok
+2025-04-18T17:34:51.910Z - info: [2025-04-18T17:34:51.910Z] [playerReady] Found account, registered=true
+
+2025-04-18T17:34:51.919Z - info: [2025-04-18T17:34:51.918Z] [finishLogin] Spawning Deacon_Saintjohn
+
+2025-04-18T17:34:52.112Z - info: [2025-04-18T17:34:52.111Z] [checkDiscordStatus] Deacon_Saintjohn fragt Status ab
+
+2025-04-18T17:34:52.123Z - info: [2025-04-18T17:34:52.123Z] [checkDiscordStatus] Deacon_Saintjohn => registered=true
+
+2025-04-18T17:34:52.136Z - info: [2025-04-18T17:34:52.136Z] [finishLogin] Spawning Deacon_Saintjohn
+
+2025-04-18T19:17:44.598Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T19:17:44.599Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T19:17:44.599Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T19:17:44.601Z - info: [2025-04-18T19:17:44.600Z] [HTTP] OAuth‑Callback listener läuft auf Port 22005
+
+2025-04-18T19:17:44.601Z - error: (node:12296) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T19:17:44.749Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T19:17:47.604Z - info: [2025-04-18T19:17:47.603Z] Deacon_Saintjohn ist dem Server beigetreten.
+
+2025-04-18T19:17:56.054Z - info: [2025-04-18T19:17:56.054Z] [playerReady] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T19:17:56.096Z - info: [2025-04-18T19:17:56.096Z] [playerReady] Existing account, registered=true
+
+2025-04-18T19:19:24.818Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T19:19:24.819Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T19:19:24.819Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T19:19:24.820Z - info: [2025-04-18T19:19:24.820Z] [HTTP] OAuth‑Callback listener läuft auf Port 22005
+
+2025-04-18T19:19:24.821Z - error: (node:13324) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T19:19:24.979Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T19:19:32.429Z - info: [2025-04-18T19:19:32.429Z] Deacon_Saintjohn ist dem Server beigetreten.
+
+2025-04-18T19:19:40.833Z - info: [2025-04-18T19:19:40.833Z] [playerReady] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T19:19:40.873Z - info: [2025-04-18T19:19:40.873Z] [playerReady] Existing account, registered=true
+
+2025-04-18T19:20:48.980Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T19:20:48.981Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T19:20:48.981Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T19:20:48.982Z - info: [2025-04-18T19:20:48.982Z] [HTTP] OAuth‑Callback listener läuft auf Port 22005
+
+2025-04-18T19:20:48.983Z - error: (node:13844) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T19:20:49.155Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T19:20:57.637Z - info: [2025-04-18T19:20:57.637Z] Deacon_Saintjohn ist dem Server beigetreten.
+
+2025-04-18T19:21:05.986Z - info: [2025-04-18T19:21:05.985Z] [playerReady] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T19:21:06.031Z - info: [2025-04-18T19:21:06.031Z] [playerReady] Existing account, registered=true
+
+2025-04-18T19:22:46.025Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T19:22:46.026Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T19:22:46.026Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T19:22:46.026Z - info: [2025-04-18T19:22:46.026Z] [HTTP] OAuth‑Callback listener läuft auf Port 22005
+
+2025-04-18T19:22:46.027Z - error: (node:19756) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T19:22:46.179Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T19:22:55.029Z - info: [2025-04-18T19:22:55.028Z] Deacon_Saintjohn ist dem Server beigetreten.
+
+2025-04-18T19:23:03.515Z - info: [2025-04-18T19:23:03.514Z] [playerReady] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T19:23:03.560Z - info: [2025-04-18T19:23:03.560Z] [playerReady] Existing account, registered=true
+

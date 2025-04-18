@@ -1,0 +1,13 @@
+{
+    "mysql": {
+      "host": "localhost",
+      "user": "veyron_admin",
+      "password": "NDQK97Oo)OBEdycS",
+      "database": "veyron_rp"
+    },
+    "discord": {
+      "botToken": "MTM2MTAwMjcyNDkwNDE0MTEwMQ.Gk4TFf.sfv1mYgIpQnuhju5cgA7tG_t9P35AR7SYP_h0I",
+      "clientId": "1361002724904141101"
+    }
+  }
+  

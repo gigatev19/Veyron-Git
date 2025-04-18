@@ -1,0 +1,87 @@
+2025-04-14T20:03:27.525Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-14T20:03:27.525Z - info: [33m[INFO][0m Starting packages...
+2025-04-14T20:03:27.525Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-14T20:03:27.526Z - error: (node:37960) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-14T20:03:27.650Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-14T20:05:03.777Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-14T20:05:06.607Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-14T20:05:06.607Z - info: ok
+2025-04-14T20:07:15.092Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-14T20:07:17.719Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-14T20:07:17.719Z - info: ok
+2025-04-14T20:08:53.687Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-14T20:08:53.688Z - info: [33m[INFO][0m Starting packages...
+2025-04-14T20:08:53.688Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-14T20:08:53.689Z - error: (node:32368) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-14T20:08:53.832Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-14T20:08:59.471Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-14T20:09:02.234Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-14T20:09:02.234Z - info: ok
+2025-04-14T20:35:26.003Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-14T20:35:26.004Z - info: [33m[INFO][0m Starting packages...
+2025-04-14T20:35:26.004Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-14T20:35:26.005Z - error: (node:37840) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-14T20:35:26.157Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-14T20:35:28.293Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-14T20:35:31.044Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-14T20:35:31.045Z - info: ok
+2025-04-14T20:37:07.114Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-14T20:37:07.115Z - info: [33m[INFO][0m Starting packages...
+2025-04-14T20:37:07.115Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-14T20:37:07.116Z - error: (node:5140) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-14T20:37:07.271Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-14T20:37:11.968Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-14T20:37:14.712Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-14T20:37:14.713Z - info: ok
+2025-04-14T20:42:48.110Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-14T20:42:48.111Z - info: [33m[INFO][0m Starting packages...
+2025-04-14T20:42:48.111Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-14T20:42:48.112Z - error: (node:40908) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-14T20:42:48.263Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-14T20:42:50.377Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-14T20:42:53.244Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-14T20:42:53.245Z - info: ok
+2025-04-14T20:44:24.149Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-14T20:44:24.149Z - info: [33m[INFO][0m Starting packages...
+2025-04-14T20:44:24.149Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-14T20:44:24.150Z - error: (node:2276) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-14T20:44:24.278Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-14T20:46:05.512Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-14T20:46:08.338Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-14T20:46:08.338Z - info: ok
+2025-04-14T20:49:54.563Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-14T20:49:54.564Z - info: [33m[INFO][0m Starting packages...
+2025-04-14T20:49:54.564Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-14T20:49:54.565Z - error: (node:41380) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-14T20:49:54.705Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-14T20:49:56.386Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-14T20:49:59.080Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-14T20:49:59.080Z - info: ok
+2025-04-14T20:50:58.989Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-14T20:51:01.681Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-14T20:51:01.682Z - info: ok
+2025-04-14T21:00:05.248Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-14T21:00:05.250Z - info: [33m[INFO][0m Starting packages...
+2025-04-14T21:00:05.250Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-14T21:00:05.251Z - error: (node:27912) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-14T21:00:05.408Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-14T21:00:11.889Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-14T21:00:14.653Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-14T21:00:14.654Z - info: ok
+2025-04-14T21:06:51.672Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-14T21:06:51.673Z - info: [33m[INFO][0m Starting packages...
+2025-04-14T21:06:51.673Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-14T21:06:51.674Z - error: (node:39336) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-14T21:06:51.799Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-14T21:08:13.844Z - info: Deacon_Saintjohn ist dem Server beigetreten.
+2025-04-14T21:08:16.941Z - info: Delayed showLogin, damit CEF geladen ist...
+2025-04-14T21:08:16.941Z - info: ok
