@@ -83,27 +83,50 @@ mp.events.add('startDiscordRegister', (player) => {
 
 mp.events.add('finishLogin', async (player) => {
   const scid = player.socialClub;
-  log(`[finishLogin] für ${player.name} (SCID=${scid})`);
+  log(`[finishLogin] ${player.name} SCID=${scid}`);
 
   try {
-    // 1) Prüfe, ob schon Charakter erstellt wurde
-    const [rows] = await db.query(
-      "SELECT char_created FROM accounts WHERE socialclub = ?",
+    // 1) Account & char_created abfragen
+    const [[acct]] = await db.query(
+      "SELECT id, char_created FROM accounts WHERE socialclub = ?",
       [scid]
     );
-    if (!rows.length || rows[0].char_created === 0) {
-      // noch kein Charakter: Char‑Creator öffnen
-      player.call('showCharCreator');
-      log(`[finishLogin] CharCreator für ${player.name} geöffnet`);
+    if (!acct) {
+      log(`[finishLogin] Kein Account gefunden für SCID=${scid}`);
       return;
     }
-    // 2) Charakter existiert: Spawn
-    player.spawn(new mp.Vector3(0,0,72));  // deine Default‑Koordinaten
-    log(`[finishLogin] ${player.name} gespawnt`);
+
+    if (acct.char_created === 0) {
+      // noch kein Charakter → CharCreator öffnen
+      player.call('showCharCreator');
+      log(`[finishLogin] Opening CharCreator for ${player.name}`);
+    } else {
+      // Charakter existiert → Daten laden
+      const [rows] = await db.query(
+        "SELECT first_name, last_name, birthdate, gender, appearance, clothing FROM characters WHERE account_id = ?",
+        [acct.id]
+      );
+      if (rows.length === 0) {
+        log(`[finishLogin] Kein Charakter‐Datensatz für Account ${acct.id}`);
+        player.call('showCharCreator');
+        return;
+      }
+
+      const charData = rows[0];
+      // 2) Sende Charakterdaten an Client
+      player.call('setCharacterData', [ JSON.stringify(charData) ]);
+      log(`[finishLogin] Sent character data to ${player.name}`);
+
+      // 3) Schließe CEF falls offen & spawn
+      player.call('charCreatorComplete');
+      player.spawn(new mp.Vector3(0, 0, 72));
+      log(`[finishLogin] ${player.name} spawned with loaded character`);
+    }
   } catch (err) {
-    log(`[finishLogin] DB‑Error: ${err}`);
+    log(`[finishLogin] Fehler: ${err}`);
   }
 });
+
 
 mp.events.add('submitCharacter', async (player, jsonData) => {
   log(`[submitCharacter] Daten von ${player.name}: ${jsonData}`);
@@ -115,7 +138,7 @@ mp.events.add('submitCharacter', async (player, jsonData) => {
     return;
   }
 
-  const { first_name, last_name, age, gender, appearance, clothing } = data;
+  const { first_name, last_name, birthdate, gender, appearance, clothing } = data;
   const scid = player.socialClub;
 
   try {
@@ -125,7 +148,7 @@ mp.events.add('submitCharacter', async (player, jsonData) => {
          SET char_created = 1,
              first_name   = ?,
              last_name    = ?,
-             age          = ?,
+             birthdate    = ?,
              gender       = ?,
              appearance   = ?,
              clothing     = ?
@@ -133,7 +156,7 @@ mp.events.add('submitCharacter', async (player, jsonData) => {
       [
         first_name,
         last_name,
-        age,
+        data.birthdate,
         gender,
         JSON.stringify(appearance),
         JSON.stringify(clothing),

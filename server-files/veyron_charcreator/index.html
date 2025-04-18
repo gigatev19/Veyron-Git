@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <!-- WICHTIG: relative Pfade funktionieren nur mit base -->
+  <base href="./">
+  <title>Char Creator</title>
+  <style>
+    /* sorgt dafür, dass die CEF‑Hintergrund transparent bleibt */
+    html, body {
+      margin: 0; padding: 0;
+      background: transparent !important;
+      overflow: hidden;
+    }
+  </style>
+  <!-- Vue Global Build -->
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+</head>
+<body>
+  <div id="app"></div>
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

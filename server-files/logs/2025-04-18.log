@@ -517,3 +517,305 @@
 
 2025-04-18T19:23:03.560Z - info: [2025-04-18T19:23:03.560Z] [playerReady] Existing account, registered=true
 
+2025-04-18T20:19:28.881Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T20:19:28.883Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T20:19:28.883Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T20:19:28.884Z - info: [2025-04-18T20:19:28.884Z] [HTTP] OAuth‑Callback listener läuft auf Port 22005
+
+2025-04-18T20:19:28.884Z - error: (node:26260) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T20:19:29.071Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T20:19:37.221Z - info: [2025-04-18T20:19:37.221Z] Deacon_Saintjohn ist dem Server beigetreten.
+
+2025-04-18T20:19:41.232Z - info: [2025-04-18T20:19:41.232Z] [playerReady] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T20:19:41.280Z - info: [2025-04-18T20:19:41.279Z] [playerReady] Existing account, registered=true
+
+2025-04-18T20:19:41.291Z - info: [2025-04-18T20:19:41.291Z] [finishLogin] für Deacon_Saintjohn (SCID=S4G_gigatev19)
+
+2025-04-18T20:19:41.306Z - info: [2025-04-18T20:19:41.305Z] [finishLogin] CharCreator für Deacon_Saintjohn geöffnet
+
+2025-04-18T20:19:41.485Z - info: [2025-04-18T20:19:41.485Z] [checkDiscordStatus] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T20:19:41.498Z - info: [2025-04-18T20:19:41.498Z] [checkDiscordStatus] registered=true
+
+2025-04-18T20:19:41.525Z - info: [2025-04-18T20:19:41.524Z] [finishLogin] für Deacon_Saintjohn (SCID=S4G_gigatev19)
+
+2025-04-18T20:19:41.542Z - info: [2025-04-18T20:19:41.542Z] [finishLogin] CharCreator für Deacon_Saintjohn geöffnet
+
+2025-04-18T20:21:30.640Z - info: [2025-04-18T20:21:30.639Z] Deacon_Saintjohn ist dem Server beigetreten.
+
+2025-04-18T20:21:33.591Z - info: [2025-04-18T20:21:33.590Z] [playerReady] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T20:21:33.604Z - info: [2025-04-18T20:21:33.604Z] [playerReady] Existing account, registered=true
+
+2025-04-18T20:21:33.618Z - info: [2025-04-18T20:21:33.617Z] [finishLogin] für Deacon_Saintjohn (SCID=S4G_gigatev19)
+
+2025-04-18T20:21:33.629Z - info: [2025-04-18T20:21:33.629Z] [finishLogin] CharCreator für Deacon_Saintjohn geöffnet
+
+2025-04-18T20:21:33.846Z - info: [2025-04-18T20:21:33.845Z] [checkDiscordStatus] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T20:21:33.858Z - info: [2025-04-18T20:21:33.858Z] [checkDiscordStatus] registered=true
+
+2025-04-18T20:21:33.870Z - info: [2025-04-18T20:21:33.870Z] [finishLogin] für Deacon_Saintjohn (SCID=S4G_gigatev19)
+
+2025-04-18T20:21:33.885Z - info: [2025-04-18T20:21:33.885Z] [finishLogin] CharCreator für Deacon_Saintjohn geöffnet
+
+2025-04-18T20:24:53.393Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T20:24:53.394Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T20:24:53.394Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T20:24:53.395Z - info: [2025-04-18T20:24:53.395Z] [HTTP] OAuth‑Callback listener läuft auf Port 22005
+
+2025-04-18T20:24:53.395Z - error: (node:40812) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T20:24:53.544Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T20:25:01.786Z - info: [2025-04-18T20:25:01.785Z] Deacon_Saintjohn ist dem Server beigetreten.
+
+2025-04-18T20:25:04.549Z - info: [2025-04-18T20:25:04.549Z] [playerReady] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T20:25:04.601Z - info: [2025-04-18T20:25:04.601Z] [playerReady] Existing account, registered=true
+
+2025-04-18T20:25:04.627Z - info: [2025-04-18T20:25:04.627Z] [finishLogin] für Deacon_Saintjohn (SCID=S4G_gigatev19)
+
+2025-04-18T20:25:04.645Z - info: [2025-04-18T20:25:04.645Z] [finishLogin] CharCreator für Deacon_Saintjohn geöffnet
+
+2025-04-18T20:25:04.794Z - info: [2025-04-18T20:25:04.794Z] [checkDiscordStatus] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T20:25:04.809Z - info: [2025-04-18T20:25:04.809Z] [checkDiscordStatus] registered=true
+
+2025-04-18T20:25:04.854Z - info: [2025-04-18T20:25:04.854Z] [finishLogin] für Deacon_Saintjohn (SCID=S4G_gigatev19)
+
+2025-04-18T20:25:04.868Z - info: [2025-04-18T20:25:04.867Z] [finishLogin] CharCreator für Deacon_Saintjohn geöffnet
+
+2025-04-18T20:29:31.170Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T20:29:31.171Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T20:29:31.171Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T20:29:31.172Z - info: [2025-04-18T20:29:31.172Z] [HTTP] OAuth‑Callback listener läuft auf Port 22005
+
+2025-04-18T20:29:31.172Z - error: (node:2844) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T20:29:31.323Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T20:29:39.672Z - info: [2025-04-18T20:29:39.672Z] Deacon_Saintjohn ist dem Server beigetreten.
+
+2025-04-18T20:29:42.535Z - info: [2025-04-18T20:29:42.535Z] [playerReady] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T20:29:42.581Z - info: [2025-04-18T20:29:42.580Z] [playerReady] Existing account, registered=true
+
+2025-04-18T20:29:42.595Z - info: [2025-04-18T20:29:42.595Z] [finishLogin] für Deacon_Saintjohn (SCID=S4G_gigatev19)
+
+2025-04-18T20:29:42.607Z - info: [2025-04-18T20:29:42.607Z] [finishLogin] CharCreator für Deacon_Saintjohn geöffnet
+
+2025-04-18T20:29:42.751Z - info: [2025-04-18T20:29:42.751Z] [checkDiscordStatus] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T20:29:42.765Z - info: [2025-04-18T20:29:42.765Z] [checkDiscordStatus] registered=true
+
+2025-04-18T20:29:42.777Z - info: [2025-04-18T20:29:42.777Z] [finishLogin] für Deacon_Saintjohn (SCID=S4G_gigatev19)
+
+2025-04-18T20:29:42.790Z - info: [2025-04-18T20:29:42.790Z] [finishLogin] CharCreator für Deacon_Saintjohn geöffnet
+
+2025-04-18T20:31:59.352Z - info: [2025-04-18T20:31:59.352Z] Deacon_Saintjohn ist dem Server beigetreten.
+
+2025-04-18T20:32:02.448Z - info: [2025-04-18T20:32:02.448Z] [playerReady] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T20:32:02.459Z - info: [2025-04-18T20:32:02.458Z] [playerReady] Existing account, registered=true
+
+2025-04-18T20:32:02.475Z - info: [2025-04-18T20:32:02.474Z] [finishLogin] für Deacon_Saintjohn (SCID=S4G_gigatev19)
+
+2025-04-18T20:32:02.487Z - info: [2025-04-18T20:32:02.486Z] [finishLogin] CharCreator für Deacon_Saintjohn geöffnet
+
+2025-04-18T20:32:02.522Z - info: [2025-04-18T20:32:02.522Z] [checkDiscordStatus] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T20:32:02.533Z - info: [2025-04-18T20:32:02.533Z] [checkDiscordStatus] registered=true
+
+2025-04-18T20:32:02.547Z - info: [2025-04-18T20:32:02.547Z] [finishLogin] für Deacon_Saintjohn (SCID=S4G_gigatev19)
+
+2025-04-18T20:32:02.560Z - info: [2025-04-18T20:32:02.559Z] [finishLogin] CharCreator für Deacon_Saintjohn geöffnet
+
+2025-04-18T20:58:01.193Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T20:58:01.193Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T20:58:01.194Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T20:58:01.194Z - info: [2025-04-18T20:58:01.194Z] [HTTP] OAuth‑Callback listener läuft auf Port 22005
+
+2025-04-18T20:58:01.195Z - error: (node:45180) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T20:58:01.345Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T20:58:09.338Z - info: [2025-04-18T20:58:09.337Z] Deacon_Saintjohn ist dem Server beigetreten.
+
+2025-04-18T20:58:12.223Z - info: [2025-04-18T20:58:12.223Z] [playerReady] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T20:58:12.265Z - info: [2025-04-18T20:58:12.265Z] [playerReady] Existing account, registered=true
+
+2025-04-18T20:58:12.279Z - info: [2025-04-18T20:58:12.279Z] [finishLogin] für Deacon_Saintjohn (SCID=S4G_gigatev19)
+
+2025-04-18T20:58:12.280Z - info: [2025-04-18T20:58:12.280Z] [checkDiscordStatus] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T20:58:12.290Z - info: [2025-04-18T20:58:12.290Z] [finishLogin] CharCreator für Deacon_Saintjohn geöffnet
+
+2025-04-18T20:58:12.314Z - info: [2025-04-18T20:58:12.314Z] [checkDiscordStatus] registered=true
+
+2025-04-18T20:58:12.339Z - info: [2025-04-18T20:58:12.338Z] [finishLogin] für Deacon_Saintjohn (SCID=S4G_gigatev19)
+
+2025-04-18T20:58:12.372Z - info: [2025-04-18T20:58:12.372Z] [finishLogin] CharCreator für Deacon_Saintjohn geöffnet
+
+2025-04-18T21:04:24.095Z - info: [2025-04-18T21:04:24.094Z] Deacon_Saintjohn ist dem Server beigetreten.
+
+2025-04-18T21:04:27.195Z - info: [2025-04-18T21:04:27.195Z] [playerReady] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T21:04:27.207Z - info: [2025-04-18T21:04:27.206Z] [playerReady] Existing account, registered=true
+
+2025-04-18T21:04:27.219Z - info: [2025-04-18T21:04:27.219Z] [finishLogin] für Deacon_Saintjohn (SCID=S4G_gigatev19)
+
+2025-04-18T21:04:27.237Z - info: [2025-04-18T21:04:27.237Z] [finishLogin] CharCreator für Deacon_Saintjohn geöffnet
+
+2025-04-18T21:04:27.348Z - info: [2025-04-18T21:04:27.348Z] [checkDiscordStatus] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T21:04:27.362Z - info: [2025-04-18T21:04:27.362Z] [checkDiscordStatus] registered=true
+
+2025-04-18T21:04:27.385Z - info: [2025-04-18T21:04:27.385Z] [finishLogin] für Deacon_Saintjohn (SCID=S4G_gigatev19)
+
+2025-04-18T21:04:27.400Z - info: [2025-04-18T21:04:27.399Z] [finishLogin] CharCreator für Deacon_Saintjohn geöffnet
+
+2025-04-18T21:17:21.316Z - info: [2025-04-18T21:17:21.316Z] Deacon_Saintjohn ist dem Server beigetreten.
+
+2025-04-18T21:17:24.359Z - info: [2025-04-18T21:17:24.359Z] [playerReady] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T21:17:24.374Z - info: [2025-04-18T21:17:24.374Z] [playerReady] Existing account, registered=true
+
+2025-04-18T21:17:24.454Z - info: [2025-04-18T21:17:24.454Z] [finishLogin] für Deacon_Saintjohn (SCID=S4G_gigatev19)
+
+2025-04-18T21:17:24.466Z - info: [2025-04-18T21:17:24.466Z] [finishLogin] CharCreator für Deacon_Saintjohn geöffnet
+
+2025-04-18T21:17:24.684Z - info: [2025-04-18T21:17:24.683Z] [checkDiscordStatus] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T21:17:24.713Z - info: [2025-04-18T21:17:24.713Z] [checkDiscordStatus] registered=true
+
+2025-04-18T21:17:24.729Z - info: [2025-04-18T21:17:24.728Z] [finishLogin] für Deacon_Saintjohn (SCID=S4G_gigatev19)
+
+2025-04-18T21:17:24.762Z - info: [2025-04-18T21:17:24.762Z] [finishLogin] CharCreator für Deacon_Saintjohn geöffnet
+
+2025-04-18T21:17:43.357Z - info: [2025-04-18T21:17:43.357Z] WeirdNewbie ist dem Server beigetreten.
+
+2025-04-18T21:17:48.374Z - info: [2025-04-18T21:17:48.374Z] [playerReady] WeirdNewbie SCID=GinMask
+
+2025-04-18T21:17:48.398Z - info: [2025-04-18T21:17:48.398Z] [playerReady] Created new account for SCID=GinMask
+
+2025-04-18T21:17:48.441Z - info: [2025-04-18T21:17:48.441Z] [checkDiscordStatus] WeirdNewbie SCID=GinMask
+
+2025-04-18T21:17:48.453Z - info: [2025-04-18T21:17:48.453Z] [checkDiscordStatus] registered=false
+
+2025-04-18T21:17:54.817Z - info: [2025-04-18T21:17:54.817Z] [startDiscordRegister] WeirdNewbie SCID=GinMask
+
+2025-04-18T21:17:54.817Z - info: [2025-04-18T21:17:54.817Z] [startDiscordRegister] Sent OAuth URL to WeirdNewbie
+
+2025-04-18T21:34:18.919Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T21:34:18.920Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T21:34:18.920Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T21:34:18.921Z - info: [2025-04-18T21:34:18.921Z] [HTTP] OAuth‑Callback listener läuft auf Port 22005
+
+2025-04-18T21:34:18.921Z - error: (node:36776) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T21:34:19.051Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T21:42:46.600Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T21:42:46.600Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T21:42:46.600Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T21:42:46.601Z - info: [2025-04-18T21:42:46.601Z] [HTTP] OAuth‑Callback listener läuft auf Port 22005
+
+2025-04-18T21:42:46.602Z - error: (node:43448) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T21:42:46.732Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T21:48:01.348Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T21:48:01.349Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T21:48:01.349Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T21:48:01.349Z - info: [2025-04-18T21:48:01.349Z] [HTTP] OAuth‑Callback listener läuft auf Port 22005
+
+2025-04-18T21:48:01.350Z - error: (node:22692) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T21:48:01.476Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T21:49:39.516Z - info: [2025-04-18T21:49:39.516Z] Deacon_Saintjohn ist dem Server beigetreten.
+
+2025-04-18T21:49:42.583Z - info: [2025-04-18T21:49:42.582Z] [playerReady] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T21:49:42.621Z - info: [2025-04-18T21:49:42.621Z] [playerReady] Existing account, registered=true
+
+2025-04-18T21:49:42.635Z - info: [2025-04-18T21:49:42.634Z] [finishLogin] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T21:49:42.651Z - info: [2025-04-18T21:49:42.651Z] [finishLogin] Opening CharCreator for Deacon_Saintjohn
+
+2025-04-18T21:49:42.814Z - info: [2025-04-18T21:49:42.814Z] [checkDiscordStatus] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T21:49:42.826Z - info: [2025-04-18T21:49:42.826Z] [checkDiscordStatus] registered=true
+
+2025-04-18T21:49:42.851Z - info: [2025-04-18T21:49:42.850Z] [finishLogin] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T21:49:42.866Z - info: [2025-04-18T21:49:42.866Z] [finishLogin] Opening CharCreator for Deacon_Saintjohn
+
+2025-04-18T21:53:24.824Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T21:53:24.825Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T21:53:24.825Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T21:53:24.826Z - info: [2025-04-18T21:53:24.826Z] [HTTP] OAuth‑Callback listener läuft auf Port 22005
+
+2025-04-18T21:53:24.826Z - error: (node:30696) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T21:53:24.973Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T21:53:33.792Z - info: [2025-04-18T21:53:33.792Z] Deacon_Saintjohn ist dem Server beigetreten.
+
+2025-04-18T21:53:36.609Z - info: [2025-04-18T21:53:36.609Z] [playerReady] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T21:53:36.655Z - info: [2025-04-18T21:53:36.655Z] [playerReady] Existing account, registered=true
+
+2025-04-18T21:53:36.670Z - info: [2025-04-18T21:53:36.670Z] [finishLogin] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T21:53:36.671Z - info: [2025-04-18T21:53:36.671Z] [checkDiscordStatus] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T21:53:36.685Z - info: [2025-04-18T21:53:36.685Z] [finishLogin] Opening CharCreator for Deacon_Saintjohn
+
+2025-04-18T21:53:36.713Z - info: [2025-04-18T21:53:36.713Z] [checkDiscordStatus] registered=true
+
+2025-04-18T21:53:36.736Z - info: [2025-04-18T21:53:36.736Z] [finishLogin] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T21:53:36.752Z - info: [2025-04-18T21:53:36.750Z] [finishLogin] Opening CharCreator for Deacon_Saintjohn
+
+2025-04-18T21:56:51.323Z - info: [32m[DONE][0m "_rage-console" package has been loaded.
+2025-04-18T21:56:51.324Z - info: [33m[INFO][0m Starting packages...
+2025-04-18T21:56:51.324Z - info: [32m[DONE][0m Server packages have been started.
+2025-04-18T21:56:51.325Z - info: [2025-04-18T21:56:51.325Z] [HTTP] OAuth‑Callback listener läuft auf Port 22005
+
+2025-04-18T21:56:51.325Z - error: (node:41856) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `ragemp-server --trace-warnings ...` to show where the warning was created)
+2025-04-18T21:56:51.482Z - info: Erfolgreich mit der MySQL-Datenbank verbunden!
+2025-04-18T21:56:58.613Z - info: [2025-04-18T21:56:58.613Z] Deacon_Saintjohn ist dem Server beigetreten.
+
+2025-04-18T21:57:01.620Z - info: [2025-04-18T21:57:01.620Z] [playerReady] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T21:57:01.665Z - info: [2025-04-18T21:57:01.665Z] [playerReady] Existing account, registered=true
+
+2025-04-18T21:57:01.680Z - info: [2025-04-18T21:57:01.680Z] [finishLogin] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T21:57:01.681Z - info: [2025-04-18T21:57:01.681Z] [checkDiscordStatus] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T21:57:01.691Z - info: [2025-04-18T21:57:01.691Z] [finishLogin] Opening CharCreator for Deacon_Saintjohn
+
+2025-04-18T21:57:01.719Z - info: [2025-04-18T21:57:01.719Z] [checkDiscordStatus] registered=true
+
+2025-04-18T21:57:01.732Z - info: [2025-04-18T21:57:01.732Z] [finishLogin] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T21:57:01.744Z - info: [2025-04-18T21:57:01.744Z] [finishLogin] Opening CharCreator for Deacon_Saintjohn
+
+2025-04-18T21:58:38.799Z - info: [2025-04-18T21:58:38.799Z] Deacon_Saintjohn ist dem Server beigetreten.
+
+2025-04-18T21:58:41.822Z - info: [2025-04-18T21:58:41.821Z] [playerReady] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T21:58:41.835Z - info: [2025-04-18T21:58:41.835Z] [playerReady] Existing account, registered=true
+
+2025-04-18T21:58:41.849Z - info: [2025-04-18T21:58:41.849Z] [finishLogin] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T21:58:41.861Z - info: [2025-04-18T21:58:41.861Z] [finishLogin] Opening CharCreator for Deacon_Saintjohn
+
+2025-04-18T21:58:42.055Z - info: [2025-04-18T21:58:42.055Z] [checkDiscordStatus] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T21:58:42.067Z - info: [2025-04-18T21:58:42.066Z] [checkDiscordStatus] registered=true
+
+2025-04-18T21:58:42.091Z - info: [2025-04-18T21:58:42.090Z] [finishLogin] Deacon_Saintjohn SCID=S4G_gigatev19
+
+2025-04-18T21:58:42.102Z - info: [2025-04-18T21:58:42.101Z] [finishLogin] Opening CharCreator for Deacon_Saintjohn
+
